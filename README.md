@@ -1,1 +1,2 @@
-# cpanel-2-whm
+# Mass Cpanel To WHM PHP Script
+
